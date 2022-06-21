@@ -1,8 +1,8 @@
 {
-  "name": "reto4_fe",
+  "name": "finish",
   "version": "1.0.0",
-  "description": "A Vue.js project",
-  "author": "Felipe Soto Correa <f.soto@globant.com>",
+  "description": "Proyect and finish tak",
+  "author": "Oalvarez>",
   "private": true,
   "scripts": {
     "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",
